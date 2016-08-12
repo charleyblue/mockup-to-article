@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+1. I have learned about HTML5 elements and using them to write tags that contain the contents of a web page. Tags are the HTML code that the browser understands and renders the content inside of the tags on the web page.
+Elements such as <em>emphasis</em>, <q>quotation</q>, <sup>super script</sup>, <p>paragraph</p>, <header>header</header>, <article>article</article>, <section>section</section>, <footer>footer</footer>. Image tags, <img src="" alt="">, thematic break <hr> do not have closing tags
+2. This has been an excellent review of HTML basics and the practice exercises have help reinforce the concepts.
+3. Organizing my time for study in relation to the other daily responsibilities.
+4. I have used the positive reinforcement methods such as say things like, "oh, I see and learned something new" or acknowledged a deeper understanding of a subject.
