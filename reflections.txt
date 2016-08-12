@@ -10,4 +10,4 @@ You've learned a lot about web development so far. I want you to take a moment t
 Elements such as <em>emphasis</em>, <q>quotation</q>, <sup>super script</sup>, <p>paragraph</p>, <header>header</header>, <article>article</article>, <section>section</section>, <footer>footer</footer>. Image tags, <img src="" alt="">, thematic break <hr> do not have closing tags
 2. This has been an excellent review of HTML basics and the practice exercises have help reinforce the concepts.
 3. Organizing my time for study in relation to the other daily responsibilities.
-4. I have used the positive reinforcement methods such as say things like, "oh, I see and learned something new" or acknowledged a deeper understanding of a subject.
+4. I have used the positive reinforcement methods such as saying things like, "Oh, I see now and learned something new" or acknowledged a deeper understanding of a subject. Using a reset when something isn't making sense by asking if there is a different way of looking at the problem.
